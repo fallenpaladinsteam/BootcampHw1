@@ -1,6 +1,6 @@
 # Horiseon
 
-[![Logo](https://github.com/fallenpaladinsteam/BootcampHw1/blob/main/docs/Assets/Logo?raw=true)](https://fallenpaladinsteam.github.io/BootcampHw1/)
+[![Logo](https://github.com/pdsan97/BootcampHw1/blob/main/docs/Assets/Logo?raw=true)](https://pdsan97.github.io/BootcampHw1/)
 
 Horiseon is a search engine optimization service.
 
@@ -8,15 +8,15 @@ Horiseon is a search engine optimization service.
 
 [![Website Image](https://github.com/fallenpaladinsteam/BootcampHw1/blob/main/Assets/01-html-css-git-homework-demo.png?raw=true)](https://fallenpaladinsteam.github.io/BootcampHw1/)
 
-The website can be viewed [Here](https://fallenpaladinsteam.github.io/BootcampHw1/)
-Url - (https://fallenpaladinsteam.github.io/BootcampHw1/)
+The website can be viewed [Here](https://pdsan97.github.io/BootcampHw1/)
+Url - (https://pdsan97.github.io/BootcampHw1/)
 
 ### Installation
 
 Clone the github repo
 
 ```sh
-git clone https://github.com/fallenpaladinsteam/BootcampHw1.git
+git clone https://github.com/pdsan97/BootcampHw1.git
 ```
 
 The index.html file can be opened in browser
