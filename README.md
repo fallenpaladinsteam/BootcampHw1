@@ -1,6 +1,6 @@
 # Horiseon
 
-[![Logo](https://github.com/pdsan97/BootcampHw1/blob/main/docs/Assets/Logo?raw=true)](https://pdsan97.github.io/BootcampHw1/)
+[![Logo](https://github.com/pdsan97/BootcampHw1/blob/main/docs/assets/images/Logo.PNG?raw=true)](https://pdsan97.github.io/BootcampHw1/)
 
 Horiseon is a search engine optimization service.
 
